@@ -1,5 +1,5 @@
 
-print('awdawjdnawdawdawawdawawdawawdawawdawawdawawdawawdawawdawawdaw, world!')
+print('world!')
 
 
 print("\n")
