@@ -21,8 +21,8 @@ jobs:
     - name: Mypy
       run: |
         # Replace src/ with the path to your Python source code
-        mypy 
+        mypy *.py
     - name: Flake8
       run: |
         # Replace src/ with the path to your Python source code
-        flake8 
+        flake8 *.py
