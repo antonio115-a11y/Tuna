@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: antonio115/tuna-app:latest
+          tags: antonio1155/tuna-app:latest
